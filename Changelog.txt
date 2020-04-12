@@ -1,0 +1,76 @@
+Version: v1.4.2 - 12/04/2020 - min bot version 1.13.17 alpha 15
+- Improved the download system of the latest version
+
+Version: v1.4.1 - 12/04/2020 - min bot version 1.13.17 alpha 14
+- Updated to work with new versions
+
+Version: v1.4.0 - 04/04/2020 - min bot version 1.13.17 alpha 12
+- Update Group imports
+
+Version: v1.3.9 - 28/03/2020 - min bot version 1.13.17 alpha 10
+-Fix palladium hangar error
+
+Version: v1.3.8 - 26/03/2020 - min bot version 1.13.17 alpha 10
+- Palladium Hangar: Now the ship will change hangars without going to the portal if you like (It's not tested)
+- WeeklySchedule: Fixed a bug where I didn't change the group settings and sab
+- WeeklySchedule: Now check the profile every 5 minutes, before it was every 10 minutes
+
+Version: v1.3.7 - 21/03/2020 - min bot version 1.13.17 alpha 10
+- Sentinel Module: Now use the tags to choose the ship to follow
+- WeeklySchedule: Added SAB and Group in profile
+
+Version: v1.3.6 - 07/03/2020 - min bot version 1.13.17 alpha 6
+- I am using InstructionProvider again thanks to its improvements
+- Added additional button to configure some tasks
+- Now the sentinel module accepts the group again
+
+Version: v1.3.5 - 07/03/2020 - min bot version 1.13.17 alpha 4
+- I no longer use InstructionProvider anywhere
+- Updated JLabel import to work in 1.13.17 alpha 4
+
+Version: v1.3.4 - 06/03/2020 - min bot version 1.13.17 alpha 1
+- Deleted the messages from the instructions
+- Now the sentinel module allows you to use the pet
+
+Version: v1.3.3 - 18/02/2020 - min bot version 1.13.17 alpha 1
+- New Sentinel Module: Follow the main ship or the group leader and do the same
+
+Version: v1.3.2 - 11/02/2020 - min bot version 1.13.17 alpha 1
+- New Behaviour: Defense Mode - Add enemy defense options
+- WeeklySchedule: Fixed a bug that caused it not to reconnect after a stop
+- Added a button to see the changelog in new updates
+- Palladium Hangar: Defense Mode removed
+
+Version: v1.3.1 - 10/02/2020
+
+- PaladiumModule: Added option to help group members defend against enemies
+- PaladiumModule: Fixed a bug that sometimes moved the ship to another area when reloading
+
+Version: v1.3.0 - 09/01/2020
+
+- PaladiumModule: Added the option to help in the defense of enemies to all
+- PaladiumModule: Marked as activated by default the option to defend against enemies
+- Some improvements
+
+Version: v1.2.9 - 11/12/2019
+
+- Fix error in uptade version
+
+Version: v1.2.9.4 - 27/11/2019
+
+- Now detects better if a ship is a pet
+- Now you can decide how the ship should be moved when in defense mode.
+
+Version: v1.2.9.1 - 09/11/2019
+
+- Palladium Hangar: Updated to work with v1.13.16 alpha 3
+- Palladium Hangar: Now if you don't have the right hangar, don't try to disconnect where it is.
+- WeeklySchedule: Now does not make the hangar change if you are wearing the palladium hangar module
+
+Version: v1.2.8 - 08/11/2019
+
+- WeeklySchedule: Fixed a bug that prevented the profile from being changed if a hang change had been made
+- WeeklySchedule: Renamed "random stops" to "random pause". 
+- WeeklySchedule: The maximum and minimum time between each pause can now be set.
+- Palladium Hangar: Fixed a bug that caused the ship to go where it shouldn't after changing hangars
+- Palladium Hangar: Added a defense mode to defend against enemies and help clan members
