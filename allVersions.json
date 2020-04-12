@@ -2,17 +2,17 @@
 	"versions": [{
 			"versionNumber": "1.4.2",
 			"downloadLink": "https://ouo.io/4LtS99",
-			"changelog": "https://gist.githubusercontent.com/dm94/58c42d0a5957a300bbacd59dc7cbb752/raw/Changelog.txt",
+			"changelog": "https://raw.githubusercontent.com/dm94/gitDmPlugin/master/allVersions.json",
 			"minVersion": "1.13.17 alpha 15"
 		}, {
 			"versionNumber": "1.4.1",
 			"downloadLink": "https://ouo.io/4LtS99",
-			"changelog": "https://gist.githubusercontent.com/dm94/58c42d0a5957a300bbacd59dc7cbb752/raw/Changelog.txt",
+			"changelog": "https://raw.githubusercontent.com/dm94/gitDmPlugin/master/allVersions.json",
 			"minVersion": "1.13.17 alpha 15"
 		}, {
 			"versionNumber": "1.3.0",
 			"downloadLink": "https://ouo.io/4LtS99",
-			"changelog": "https://gist.githubusercontent.com/dm94/58c42d0a5957a300bbacd59dc7cbb752/raw/Changelog.txt",
+			"changelog": "https://raw.githubusercontent.com/dm94/gitDmPlugin/master/allVersions.json",
 			"minVersion": "1.13.16"
 		}
 	]
