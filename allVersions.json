@@ -1,12 +1,6 @@
 {
 	"versions": [
 		{
-			"versionNumber": "1.4.3",
-			"downloadLink": "https://comunidadgzone.es/",
-			"changelog": "https://github.com/dm94/gitDmPlugin/blob/master/Changelog.txt",
-			"minVersion": "1.13.17 alpha 15"
-		},
-		{
 			"versionNumber": "1.4.2",
 			"downloadLink": "https://ouo.io/4LtS99",
 			"changelog": "https://github.com/dm94/gitDmPlugin/blob/master/Changelog.txt",
